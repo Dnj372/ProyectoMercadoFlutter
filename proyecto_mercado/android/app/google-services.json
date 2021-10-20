@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185278150850",
+    "project_id": "proyectomercado-6b462",
+    "storage_bucket": "proyectomercado-6b462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185278150850:android:2f771d15d3751a7237e35b",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_mercado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185278150850-colieo1n9skv69fgausidjnbfi47qg59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSQfqCmpH0nFdTYwN0fQeGOs8INuSWN_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185278150850-colieo1n9skv69fgausidjnbfi47qg59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
